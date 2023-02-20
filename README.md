@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dooplu. I'm studying computer engineering @ uOttawa.
 - 👀 I’m interested in pretty much anything computer related. Hardware, circuitry and anything low-level, to networking and machine vision.
-- 🌱 I’m learning anything that piques my interest.
-- 📫 My [Instagram](https://www.instagram.com/adamb.dia/), my [LinkedIn](https://www.linkedin.com/in/adambilaldia/)
+- 📫 My [Instagram](https://www.instagram.com/adamb.dia/), and my [LinkedIn](https://www.linkedin.com/in/adambilaldia/)
 
 <!---
 dooplu/dooplu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
